@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.72cbbe2a.css",
+    "main.js": "/static/js/main.486fe031.js",
+    "static/js/453.0c64b2e6.chunk.js": "/static/js/453.0c64b2e6.chunk.js",
+    "static/media/main_box03_bg.png": "/static/media/main_box03_bg.5543fab4ac0f01fa0442.png",
+    "static/media/main_c_box01_bg02.png": "/static/media/main_c_box01_bg02.1627bb5e86e0bd90978c.png",
+    "static/media/main_t_visual_bg.png": "/static/media/main_t_visual_bg.e0b3d284a8aaca132661.png",
+    "static/media/main_c_box01_bg01.png": "/static/media/main_c_box01_bg01.4c387ed7fa44239ee4ea.png",
+    "static/media/main_m_visual.png": "/static/media/main_m_visual.25313eef189dad614059.png",
+    "static/media/seoulnamsanjungeb.woff": "/static/media/seoulnamsanjungeb.fe0cfd708897e8c3c9e6.woff",
+    "static/media/seoulnamsanjungb.woff": "/static/media/seoulnamsanjungb.9f20f32da0ab9040eff2.woff",
+    "static/media/seoulnamsanjungm.woff": "/static/media/seoulnamsanjungm.1b68037bea6a8627b92f.woff",
+    "static/media/seoulnamsanjangl.woff": "/static/media/seoulnamsanjangl.e7907e2f8bef0b6551e0.woff",
+    "static/media/seoulnamsanjangm.woff": "/static/media/seoulnamsanjangm.0365f7ba295940414db8.woff",
+    "static/media/main_visual_bg.png": "/static/media/main_visual_bg.f3a429169e2c4eacc695.png",
+    "index.html": "/index.html",
+    "main.72cbbe2a.css.map": "/static/css/main.72cbbe2a.css.map",
+    "main.486fe031.js.map": "/static/js/main.486fe031.js.map",
+    "453.0c64b2e6.chunk.js.map": "/static/js/453.0c64b2e6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.72cbbe2a.css",
+    "static/js/main.486fe031.js"
+  ]
+}
